@@ -19,3 +19,5 @@ sklearn_ML_2.ipynb: Cross-validation, Logistic Regression, Clustering, Feature S
 sklearn_ML_3.ipynb: SVM, Trees, bagging, boosting, LDA
 
 Gaza_conflict.ipynb: Visualization
+
+feature_selection.ipynb: feature selection
