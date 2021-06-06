@@ -20,4 +20,6 @@ sklearn_ML_3.ipynb: SVM, Trees, bagging, boosting, LDA
 
 Gaza_conflict.ipynb: Visualization
 
+visual_bund.ipynb: Visualization
+
 feature_selection.ipynb: feature selection
