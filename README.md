@@ -29,3 +29,7 @@ F1.ipynb: Visualization
 stat_testing.ipynb: Statistical testing, Simulation, Learning
 
 Cryptography_code.pynb: Cryptography
+
+Water_quality.ipynb: water quality (Classificaiton), MCMC
+
+linearReg.ipynb: Linear Regression
