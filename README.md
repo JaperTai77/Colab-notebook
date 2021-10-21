@@ -26,7 +26,9 @@ feature_selection.ipynb: feature selection
 
 F1.ipynb: Visualization
 
-stat_testing.ipynb: Statistical testing, Simulation, Learning
+stat_testing.ipynb: Statistical testing, Simulation, Reinforcement Learning
+
+CI_testing.ipynb: Statistical testing, confidence interval
 
 Cryptography_code.pynb: Cryptography
 
