@@ -18,13 +18,13 @@ sklearn_ML_2.ipynb: Cross-validation, Logistic Regression, Clustering, Feature S
 
 sklearn_ML_3.ipynb: SVM, Trees, bagging, boosting, LDA
 
-Gaza_conflict.ipynb: Visualization
+Gaza_conflict.ipynb: Visualization, matplotlib specific
 
 visual_bund.ipynb / bund_offensive/ipynb: Visualization
 
 feature_selection.ipynb: feature selection
 
-F1.ipynb: Visualization
+F1.ipynb: Visualization, various kinds
 
 stat_testing.ipynb: Statistical testing, Simulation, Reinforcement Learning
 
