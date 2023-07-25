@@ -37,3 +37,5 @@ Water_quality.ipynb: water quality (Classificaiton), MCMC
 linearReg.ipynb: Linear Regression
 
 hyperparameter.ipynb: tune hyperparameter(grid search)
+
+pyspark_basic.ipynb: pyspark basic
